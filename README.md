@@ -7,7 +7,7 @@ Recrie a interface do principal site de streaming mundial utilizando tecnologias
 
 🚧 Em Construção <br />
 
-My site: https://jorgeedualves.github.io/Netflix-Clone/
+Site is published at https://jorgeedualves.github.io/Netflix-Clone/
 
 Made in Jorge Alves
 
