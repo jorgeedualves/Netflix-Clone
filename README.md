@@ -9,6 +9,7 @@ Recrie a interface do principal site de streaming mundial utilizando tecnologias
 
 Site is published at 
 <a href="https://jorgeedualves.github.io/Netflix-Clone/">Netflix-Clone</a>
+<a href="https://jorgeedualves.github.io/Netflix-Clone/" target="_blank" rel="noopener noreferrer">Netflix-Clone</a>
 
 Made in Jorge Alves
 
